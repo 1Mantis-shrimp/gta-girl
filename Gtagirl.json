@@ -1,8 +1,9 @@
 {
-  "name": "Mantis Shrimp",
-  "symbol": "Vice City",
+  "name": "San Andreas",
+  "symbol": "GTA",
   "description": "The official Vice City token on Solana...",
   "image": "https://raw.githubusercontent.com/1Mantis-shrimp/gta-girl/main/gta%202.jpeg",
   "external_url": "https://github.com/1Mantis-shrimp/gta-girl",
   "x": "@1mantisshrimp"
 }
+
